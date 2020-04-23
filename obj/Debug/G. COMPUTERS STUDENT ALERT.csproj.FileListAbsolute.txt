@@ -1,0 +1,16 @@
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\bin\Debug\G.COMPUTERS_STUDENT_ALERT.exe
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\bin\Debug\G.COMPUTERS_STUDENT_ALERT.pdb
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.Properties.Resources.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G. COMPUTERS STUDENT ALERT.csproj.GenerateResource.Cache
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.exe
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.pdb
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\bin\Debug\MetroFramework.Design.dll
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\bin\Debug\MetroFramework.dll
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.Form2.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.frmmain.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.frmclock.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.frmprocess.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.frmadmin.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\obj\Debug\G.COMPUTERS_STUDENT_ALERT.frmstudentlist.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\G. COMPUTERS STUDENT ALERT\G. COMPUTERS STUDENT ALERT\bin\Debug\G.COMPUTERS_STUDENT_ALERT.exe.config
